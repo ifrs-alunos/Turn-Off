@@ -1,7 +1,7 @@
 # Turn-Off
- - Título da aplicação:
+ - Título da aplicação: MovieApp (Mapp)
 
-- Qual o propósito:
+- Qual o propósito: 
 
    Esse projeto foca em blablablablablabla, que incluirá registro pessoal (possivelmente com a conta do Google), uso de sua localização (via google maps :earth_americas:),
 
