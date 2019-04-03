@@ -3,7 +3,7 @@
 
 - Qual o propósito: 
 
-   Esse projeto foca em blablablablablabla, que incluirá registro pessoal (possivelmente com a conta do Google), uso de sua localização (via google maps :earth_americas:),
+   Esse projeto tem como objetivo identificar o local e gênero de filmes assim especificar quais gêrenos são mais assistidos em determinadas regiões, que incluirá registro pessoal (possivelmente com a conta do Google), uso de sua localização (via google maps :earth_americas:),
 
 - Quem desenvolveu (short-bio) :
 
