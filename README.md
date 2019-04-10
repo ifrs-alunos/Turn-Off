@@ -13,13 +13,13 @@
   
 - Quais as principais funcionalidades:
     
-    - Que serão desenvolvidas: 
+    -- Que serão desenvolvidas: 
      * Reconhecimento da localização assim como região, cidade e estado. 
      * Reconhecimento de diferentes gêneros de filmes, ficcionários ou não.
      * Permitir que usuários logados possam avaliar qualquer filme.
      * Informar cinemas próximos.
    
-   - Que estão desenvolvidas: 
+   -- Que estão desenvolvidas: 
    
 - Como instalar e configurar corretamente a aplicação:
  * A princípio essa aplicação estará disponível apenas para browser (navegadores web) assim qualquer usúario apenas precisa ter uma conexão com a internet
