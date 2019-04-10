@@ -12,12 +12,16 @@
   Integrante 2: Nícolas Pimentel da Costa estudante do Técnico Integrado em Multímídia, terceiro ano, no Intituto Federal do Rio Grande do Sul no *Campus* Vacaria, tenho 17 anos com experiência em lgumas linguagens de programação e de marcação: Python, JavaScript, HTML, CSS. Conhecimentos em Audiovisual como: Edição de imagem estática e dinâmica (fotografias e vídeos). Email: nickolaspimentel1221@gmail.com :v: 
   
 - Quais as principais funcionalidades:
+    
     - Que serão desenvolvidas: 
      * Reconhecimento da localização assim como região, cidade e estado. 
      * Reconhecimento de diferentes gêneros de filmes, ficcionários ou não.
      * Permitir que usuários logados possam avaliar qualquer filme.
      * Informar cinemas próximos.
-    - Que estão desenvolvidas: 
+   
+   - Que estão desenvolvidas: 
+   
 - Como instalar e configurar corretamente a aplicação:
+ * A princípio essa aplicação estará disponível apenas para browser (navegadores web) assim qualquer usúario apenas precisa ter uma conexão com a internet
 
-- Bugs conhecidos e como resolvê-los:
+- Bugs conhecidos e como resolvê-los: 
