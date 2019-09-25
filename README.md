@@ -22,6 +22,6 @@
    -- Que estão desenvolvidas: 
    
 - Como instalar e configurar corretamente a aplicação:
- * A princípio essa aplicação estará disponível apenas para browser (navegadores web) assim qualquer usúario apenas precisa ter uma conexão com a internet
+ * -- A princípio essa aplicação estará disponível apenas para browser (navegadores web) assim qualquer usúario apenas precisa ter uma conexão com a internet
 
 - Bugs conhecidos e como resolvê-los: 
